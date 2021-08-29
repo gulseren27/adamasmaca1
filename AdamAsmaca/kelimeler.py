@@ -1,0 +1,1 @@
+words_list = ["python","computer","program","game","code","software"]
